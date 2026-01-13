@@ -1,2 +1,3 @@
 # sql
 sql
+learning sql
